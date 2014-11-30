@@ -9,11 +9,15 @@
     <string name="login_id">Id</string>
     <string name="login_reset">Reset</string>
     <string name="login_failure">Login Failure! Try Again!</string>
-    <string name="title_section1">Section 1</string>
-    <string name="title_section2">Section 2</string>
-    <string name="title_section3">Section 3</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+   
+    <!-- Order Strings -->
+     <string name="order_pickup">Pickup Address</string>
+    <string name="order_dropin">Dropin Address</string>
+    <string name="order_car_suv">SUV</string>
+    <string name="order_car_sedan">Sedan</string>
+    <string name="order_car_hatchback">Hatchback</string>
+    
+    <!-- Activity titles -->
     <string name="title_activity_order">Order</string>
     <string name="title_activity_login">Login</string>
 
